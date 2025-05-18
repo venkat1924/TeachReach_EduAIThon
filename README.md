@@ -3,6 +3,12 @@
 A Unity-based CPU scheduling simulator & visualizer that represents processes as racing cars on a track, enhanced with an integrated LLM-powered chat interface for automatic scenario parsing and simulation.
 
 ---
+## Team Members:
+- Mula Sohan
+- Vaibhav Soin
+- Srivanth Srinivasan
+- Manya Chadaga
+- Anumaneni Venkat Balachandra
 
 ## 🎯 Key Features
 
