@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 444414731e6921243bd1d865370da6b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319273
+  packageName: 'HellaFlush: DriftCarFree'
+  packageVersion: 1.0
+  assetPath: Assets/HellaFlush_DriftCar_Free/Materials/Mat_Car/Mat_Car_White.mat
+  uploadId: 754175

@@ -1,0 +1,26 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Auto‑generated VS/IDE project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.vs/
+
+# Asset meta data should be tracked
+!*.meta
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# [Aa]ssetStoreTools*

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8be1a99d40f60e54ea3172e63a9d9edb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319273
+  packageName: 'HellaFlush: DriftCarFree'
+  packageVersion: 1.0
+  assetPath: Assets/HellaFlush_DriftCar_Free/Materials/Mat_Wheels(tire)/Mat_Wheels_Blake.mat
+  uploadId: 754175

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee0a5d0fc9a477342bc0e09bb607894f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 319273
+  packageName: 'HellaFlush: DriftCarFree'
+  packageVersion: 1.0
+  assetPath: Assets/HellaFlush_DriftCar_Free/Materials/Mat_Wheels(tire)/Mat_Wheels_White.mat
+  uploadId: 754175
